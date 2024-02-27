@@ -1,6 +1,6 @@
 # Font configuaration
 [font]
-  normal = { family = "FiraCode Nerd Font" }
+  normal = { family = "FiraCode Nerd Font", type = "Regular" }
   size = 19
 
 
