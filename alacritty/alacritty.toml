@@ -1,7 +1,6 @@
 # https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd
 # https://alacritty.org/config-alacritty.html
 
-# Font configuration
 [font]
 size = 12.5
 
