@@ -4,9 +4,6 @@
 [env]
 TERM = "xterm-256color"
 
-[window]
-decorations = "Full"
-
 [font]
 size = 14.0
 
