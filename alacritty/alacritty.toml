@@ -1,6 +1,11 @@
-# Font configuration
+# https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd
+# https://alacritty.org/config-alacritty.html
+
 [font]
 normal = { family = "FiraCode Nerd Font", type = "Regular" }
+bold = { family = "FiraCode Nerd Font", style = "Bold" }
+italic = { family = "FiraCode Nerd Font", style = "Italic" }
+bold_italic = { family = "FiraCode Nerd Font", style = "Bold Italic" }
 size = 19
 
 
