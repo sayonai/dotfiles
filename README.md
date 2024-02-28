@@ -1,2 +1,2 @@
-# dotfiles
-My configs for Alacritty, Neovim and more!
+# Alacritty
+The default config location ```~/.config/alacritty/alacritty.toml```
