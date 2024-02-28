@@ -6,6 +6,6 @@ normal = { family = "FiraCode Nerd Font", type = "Regular" }
 bold = { family = "FiraCode Nerd Font", style = "Bold" }
 italic = { family = "FiraCode Nerd Font", style = "Italic" }
 bold_italic = { family = "FiraCode Nerd Font", style = "Bold Italic" }
-size = 19
+size = 12
 
 
