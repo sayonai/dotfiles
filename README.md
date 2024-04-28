@@ -4,9 +4,9 @@ Configuration: ```~/.config/mpv/mpv.conf```
 
 # Newsboat
 ## Configuration
-Configuration:         ```/Users/cockatoo/.config/newsboat/config```  
-Feed URLs:             ```/Users/cockatoo/.config/newsboat/urls```  
-Cache:                 ```/Users/cockatoo/.local/share/newsboat/cache.db```  
-Podcast Queue:         ```/Users/cockatoo/.local/share/newsboat/queue```  
-Search History:        ```/Users/cockatoo/.local/share/newsboat/history.search```  
-Command Line History:  ```/Users/cockatoo/.local/share/newsboat/history.cmdline```
+Configuration:         ```~/.config/newsboat/config```  
+Feed URLs:             ```~/.config/newsboat/urls```  
+Cache:                 ```~/.local/share/newsboat/cache.db```  
+Podcast Queue:         ```~/.local/share/newsboat/queue```  
+Search History:        ```~/.local/share/newsboat/history.search```  
+Command Line History:  ```~/.local/share/newsboat/history.cmdline```
