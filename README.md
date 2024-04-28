@@ -4,7 +4,7 @@ Configuration: ```~/.config/mpv/mpv.conf```
 
 # Newsboat
 ## Configuration
-Configuration:         ```~/.config/newsboat/config```  
+Configuration:&nbsp;&nbsp;&nbsp;&nbsp;         ```~/.config/newsboat/config```  
 Feed URLs:             ```~/.config/newsboat/urls```  
 Cache:                 ```~/.local/share/newsboat/cache.db```  
 Podcast Queue:         ```~/.local/share/newsboat/queue```  
