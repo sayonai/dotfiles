@@ -4,10 +4,9 @@ The default config location ```~/.config/mpv/mpv.conf```
 
 # Newsboat
 ## Configuration
-Files:
-	- configuration:         ```/Users/cockatoo/.config/newsboat/config```  
-	- feed URLs:             ```/Users/cockatoo/.config/newsboat/urls```
-	- cache:                 ```/Users/cockatoo/.local/share/newsboat/cache.db```
-	- podcast queue:         ```/Users/cockatoo/.local/share/newsboat/queue```
-	- search history:        ```/Users/cockatoo/.local/share/newsboat/history.search```
-	- command line history:  ```/Users/cockatoo/.local/share/newsboat/history.cmdline```
+Configuration:         ```/Users/cockatoo/.config/newsboat/config```  
+Feed URLs:             ```/Users/cockatoo/.config/newsboat/urls```  
+Cache:                 ```/Users/cockatoo/.local/share/newsboat/cache.db```  
+Podcast Queue:         ```/Users/cockatoo/.local/share/newsboat/queue```  
+Search History:        ```/Users/cockatoo/.local/share/newsboat/history.search```  
+Command Line History:  ```/Users/cockatoo/.local/share/newsboat/history.cmdline```
