@@ -1,6 +1,6 @@
 # mpv
 ## Configuration 
-The default config location ```~/.config/mpv/mpv.conf```
+Configuration: ```~/.config/mpv/mpv.conf```
 
 # Newsboat
 ## Configuration
